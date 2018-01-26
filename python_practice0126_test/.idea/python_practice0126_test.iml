@@ -6,10 +6,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="python_practice0125_2" />
-    <orderEntry type="module" module-name="python_practice0125_2" />
-    <orderEntry type="module" module-name="python_practice0126_1" />
-    <orderEntry type="module" module-name="python_practice0126_2" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
